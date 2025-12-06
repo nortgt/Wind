@@ -1,6 +1,6 @@
 return {
 	["brush"] = "rbxassetid://127035535799640",
-  ["info"] = "rbxassetid://124560466474914",
+	["info"] = "rbxassetid://124560466474914",
 	["user"] = "rbxassetid://81589895647169",
 	["tag"] = "rbxassetid://129104970103940",
 	["pencil"] = "rbxassetid://137986121120732",

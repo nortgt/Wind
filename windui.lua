@@ -23,7 +23,7 @@ local f=game:GetService"TweenService"
 local g=game:GetService"LocalizationService"
 local h=game:GetService"HttpService"
 
-local i="https://raw.githubusercontent.com/Footagesus/Icons/main/Main.lua"
+local i="https://github.com/nortgt/Wind/raw/main/icons.lua"
 
 local j=loadstring(
 game.HttpGetAsync and game:HttpGetAsync(i)
